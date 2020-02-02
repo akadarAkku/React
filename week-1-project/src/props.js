@@ -18,7 +18,9 @@ function App(props) {
 function NewsArticle() {
     return (
         <article data-testid="news-article">
-            <h1>Article</h1>
+            <h1>'10 Amazing Things you did not know about React'</h1>
+            <h1>'Discover the Best Javascript Framework'</h1>
+            <h1>'This simple trick will teach you everything about React'</h1>
         </article>
     );
 }

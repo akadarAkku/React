@@ -26,15 +26,15 @@ test('The component App uses and renders with other props', async () => {
 });
 
 
-test('Given a new prop the app renders with a description', async () => {
-    const { getByTestId } = render(<App title="My App" />);
+test('Given a new prop the app renders with a description',  async () => {
+    const { getByTestId } = render(<App title="My App" addDescription={true}/>);
 
     const element = await getByTestId('description');
 
     expect(element).toBeDefined();
-});
+ });
 
-test('Render with a state object using the spread operator ', async () => {
+ test('Render with a state object using the spread operator', async () => {
     const data = {
         title: 'My App',
     };
@@ -86,7 +86,6 @@ test('Renders articles with title ', async () => {
     };
 
     const { findByText } = render(<App {...data} />);
-
     const article1 = await findByText('10 Amazing Things you did not know about React');
     const article2 = await findByText('Discover the Best Javascript Framework');
     const article3 = await findByText('This simple trick will teach you everything about React');
