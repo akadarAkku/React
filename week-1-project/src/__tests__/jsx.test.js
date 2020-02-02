@@ -1,7 +1,7 @@
 import React from 'react';
 import { App } from '../jsx';
 import { render } from '@testing-library/react';
-
+import * 
 // React is written in JSX
 // https://reactjs.org/docs/introducing-jsx.html
 
