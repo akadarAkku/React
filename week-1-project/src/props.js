@@ -24,5 +24,4 @@ function NewsArticle() {
         </article>
     );
 }
-
 export { App };
