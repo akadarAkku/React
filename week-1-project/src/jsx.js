@@ -1,9 +1,7 @@
 import React from 'react';
 
 function App() {
-    const incorrectTitle = 'Wrong title';
-    const title = 'My App';
-
+const title = 'My App';
 return(
 <div>
   <h1 className={""}>{title}</h1>
