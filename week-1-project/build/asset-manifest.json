@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/main.2af46b2f.chunk.js",
-    "main.js.map": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/main.2af46b2f.chunk.js.map",
+    "main.js": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/main.13840530.chunk.js",
+    "main.js.map": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/main.13840530.chunk.js.map",
     "runtime-main.js": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/runtime-main.bc4eb59e.js",
     "runtime-main.js.map": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/runtime-main.bc4eb59e.js.map",
-    "static/js/2.c6bafbf7.chunk.js": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/2.c6bafbf7.chunk.js",
-    "static/js/2.c6bafbf7.chunk.js.map": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/2.c6bafbf7.chunk.js.map",
+    "static/js/2.3994c8e4.chunk.js": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/2.3994c8e4.chunk.js",
+    "static/js/2.3994c8e4.chunk.js.map": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/2.3994c8e4.chunk.js.map",
     "index.html": "%3Cusername%3E.github.io/React/week-1-project/build/index.html",
-    "precache-manifest.bd629698bacb71bf9415325c3c606a3e.js": "%3Cusername%3E.github.io/React/week-1-project/build/precache-manifest.bd629698bacb71bf9415325c3c606a3e.js",
+    "precache-manifest.1a8bbaf7ff87ad352eb7d01723824842.js": "%3Cusername%3E.github.io/React/week-1-project/build/precache-manifest.1a8bbaf7ff87ad352eb7d01723824842.js",
     "service-worker.js": "%3Cusername%3E.github.io/React/week-1-project/build/service-worker.js",
-    "static/js/2.c6bafbf7.chunk.js.LICENSE": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/2.c6bafbf7.chunk.js.LICENSE"
+    "static/js/2.3994c8e4.chunk.js.LICENSE": "%3Cusername%3E.github.io/React/week-1-project/build/static/js/2.3994c8e4.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.bc4eb59e.js",
-    "static/js/2.c6bafbf7.chunk.js",
-    "static/js/main.2af46b2f.chunk.js"
+    "static/js/2.3994c8e4.chunk.js",
+    "static/js/main.13840530.chunk.js"
   ]
 }
