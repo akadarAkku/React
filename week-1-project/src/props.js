@@ -1,5 +1,6 @@
 import React from "react";
 
+
 class App extends React.Component {
     render(){
         return(
@@ -27,4 +28,4 @@ function NewsArticle(props) {
     );
 }
 
-export { App };
+export { App , NewsArticle};
