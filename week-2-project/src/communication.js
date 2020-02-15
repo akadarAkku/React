@@ -51,8 +51,7 @@ const FruitForm = ({ onSubmitHandler }) => {
     };
 
     const onSubmit = (event) => {
-        event.preventDefault(); // We disable the default behaviour of a form
-
+        event.preventDefault(); 
         if (isValidFruit(fruit)) {
             console.log('onSubmitHandler');
             console.log(onSubmitHandler);
@@ -89,7 +88,6 @@ const FruitAppWithBalance = () => {
     const [fruits, setFruits] = useState([]);
 
     const onSubmitHandler = (fruit) => {
-        /* update the fruits here */
     };
 
     return (

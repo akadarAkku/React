@@ -75,6 +75,7 @@ const InteractivePokedex = () => {
 
         /* Use the result of the fetchPokemon function */
         /* set the result using selectedPokemon, be sure to support the render below */
+    
     };
 
     return (
