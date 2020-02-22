@@ -12,7 +12,7 @@ test('Pokedex: displays pokemon', async () => {
 test('InteractivePokedex: displays pokemon', async () => {
     const { findAllByText } = render(<InteractivePokedex />);
 
-    const firstButtons = await  findByText('Learn more');
+    const firstButtons = await findAllByText('Learn more');
     fireEvent.click(firstButtons[0]);
 
     await findAllByText(/napping in bright sunlight/i);
